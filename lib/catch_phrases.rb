@@ -20,5 +20,3 @@ mario
 toadstool
 link
 all_phrases
-
-#one more quick question - is there any way to skip the autocompletion when i hit enter? for example, i'm typing a variable called variable_1 in and already have one called variable_10 so it autocompletes, but i didn't want that. How do I enter do go to the next line without autocompleting?
