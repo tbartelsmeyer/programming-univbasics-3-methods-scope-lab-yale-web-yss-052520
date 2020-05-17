@@ -15,8 +15,3 @@ def all_phrases
   toadstool
   link
 end
-  
-mario
-toadstool
-link
-all_phrases
